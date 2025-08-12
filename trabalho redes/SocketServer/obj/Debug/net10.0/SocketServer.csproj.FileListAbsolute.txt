@@ -1,0 +1,14 @@
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\bin\Debug\net10.0\SocketServer.exe
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\bin\Debug\net10.0\SocketServer.deps.json
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\bin\Debug\net10.0\SocketServer.runtimeconfig.json
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\bin\Debug\net10.0\SocketServer.dll
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\bin\Debug\net10.0\SocketServer.pdb
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.AssemblyInfo.cs
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.dll
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\refint\SocketServer.dll
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.pdb
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\SocketServer.genruntimeconfig.cache
+C:\Users\berrb\OneDrive\Documentos\projetos\trabalho redes\SocketServer\obj\Debug\net10.0\ref\SocketServer.dll
